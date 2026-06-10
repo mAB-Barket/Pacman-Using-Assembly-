@@ -1,6 +1,5 @@
 # AsmPacman - Assembly Pacman Game
 
-![Assembly Pacman Game](Screenshots/Pacman001.png)
 
 A fully functional, classic Pacman game written entirely in **x86 Assembly Language (MASM 6.15)**. This project demonstrates low-level programming concepts including screen rendering, character movement, collision detection, and logic handling in assembly.
 
